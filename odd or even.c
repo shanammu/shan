@@ -5,7 +5,7 @@ void main()
 int a;
 clrscr();
 scanf("%d",&a);
-if(n%2==1)
+if(a%2==1)
 {
 printf("odd");
 }
