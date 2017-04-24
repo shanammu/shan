@@ -5,11 +5,11 @@ void main()
 int a;
 clrscr();
 scanf("%d",&a);
-if(a>=0)
+if(a>0)
 {
 printf("positive");
 }
-elseif(a<=0)
+elseif(a<0)
 {
 printf("negative");
 }
