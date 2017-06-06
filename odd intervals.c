@@ -6,7 +6,7 @@ int a,b,i;
 clrscr();
 scanf("%d%d",&a,&b);
 printf("Display the numbers between %d and %d:",a,b);
-for(i=0;i<b;i++)
+for(i=a;i<b;i++)
 {
 if(i%2!=0)
 {
