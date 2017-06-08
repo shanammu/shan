@@ -15,11 +15,7 @@ i/=10;
 }
 if(result==i)
 {
-printf("armstrong number");
-}
-else
-{
-printf("not an armstrong number");
+printf("armstrong number:%d",result);
 }
 }
 getch();
