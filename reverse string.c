@@ -5,6 +5,7 @@ void main()
    int i, j, k;
    char str[100];
    char rev[100];
+   clrscr();
    printf("Enter a string\t");
    scanf("%s", str);
    printf("The original string is %s", str);
